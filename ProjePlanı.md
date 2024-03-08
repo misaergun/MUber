@@ -1,3 +1,3 @@
-##Proje Planı
+#Proje Planı
 
 ![ProjeÇizelgesi](/ProjeCizelgesi.png)
