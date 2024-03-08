@@ -1,5 +1,6 @@
 
-##Gereksinim Açıklamaları
+Gereksinim Açıklamaları:
+--
 
 **1. Kayıt Olma:** Kullanıcının bilgilerini girerek sistemdeki özelliklerden yararlanabilmesini ve deneyimini kişiselleştirebilmesini sağlar.
 
