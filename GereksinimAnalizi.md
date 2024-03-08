@@ -1,4 +1,5 @@
-#Gereksinimler:
+Gereksinimler:
+--
 
 1. Kayıt Olma
 2. Giriş Yapma
@@ -11,7 +12,8 @@
 9. İstek doğrultusunda araç filtreleme
 10. Kayıt Silme
 
-##Gereksinim Dağılımları:
+Gereksinim Dağılımları:
+--
 
 -[Müberra Nisa Ergün Gereksinimleri](MuberraNisaErgunGereksinimleri.md)
 
