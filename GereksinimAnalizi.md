@@ -11,8 +11,8 @@ Gereksinimler:
 8. Sürücü Yorumlama
 9. İstek doğrultusunda araç filtreleme
 10. Kayıt Silme
-11.Kullanıcı profili düzenleme
-12.Sürücü profili düzenleme
+11. Kullanıcı profili düzenleme
+12. Sürücü profili düzenleme
 
 Gereksinim Dağılımları:
 --
