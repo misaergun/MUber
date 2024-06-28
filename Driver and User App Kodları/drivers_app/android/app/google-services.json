@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "456618117588",
+    "firebase_url": "https://muber-9641d-default-rtdb.firebaseio.com",
+    "project_id": "muber-9641d",
+    "storage_bucket": "muber-9641d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456618117588:android:bfedaa221a0e629e602e41",
+        "android_client_info": {
+          "package_name": "com.misaergun.driversapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKAvXO96rQWi2bh80lFdE0BQrFh0RBlrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456618117588:android:d2aa263b3179a509602e41",
+        "android_client_info": {
+          "package_name": "com.nisaergun.driversapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKAvXO96rQWi2bh80lFdE0BQrFh0RBlrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
